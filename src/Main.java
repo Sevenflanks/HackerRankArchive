@@ -8,5 +8,7 @@ public class Main {
             scan.nextLine();
             System.out.println("Hello World!");
         }
+
     }
+
 }
